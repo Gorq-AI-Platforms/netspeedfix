@@ -1,0 +1,115 @@
+================================================================================
+                    PROPRIETARY LICENSE AGREEMENT
+                    GORQ_NETSPEED FIX
+                    GORQ AI PLATFORMS
+================================================================================
+
+Copyright (c) 2025 GORQ AI PLATFORMS
+All Rights Reserved
+
+This software and associated documentation files (the "Software") are the
+proprietary and confidential property of GORQ AI PLATFORMS.
+
+================================================================================
+                            LICENSE TERMS
+================================================================================
+
+1. PROPRIETARY SOFTWARE
+   This Software is proprietary software. No other license is provided.
+   This Software is provided for USE ONLY.
+
+2. LIMITED USE LICENSE
+   You are granted a limited, non-exclusive, non-transferable license to use
+   this Software solely for your personal or internal business purposes.
+
+3. RESTRICTIONS
+   You may NOT:
+   - Copy, modify, adapt, or create derivative works of the Software
+   - Reverse engineer, decompile, or disassemble the Software
+   - Distribute, sublicense, lease, rent, or sell the Software
+   - Remove or alter any proprietary notices or labels on the Software
+   - Use the Software for any illegal or unauthorized purpose
+
+4. NO WARRANTIES
+   THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+5. NO LIABILITY
+   IN NO EVENT SHALL GORQ AI PLATFORMS, ITS AFFILIATES, EMPLOYEES, AGENTS,
+   OR REPRESENTATIVES BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY,
+   WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF,
+   OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+   SOFTWARE.
+
+6. NO GUARANTEES
+   GORQ AI PLATFORMS MAKES NO GUARANTEES, REPRESENTATIONS, OR WARRANTIES
+   REGARDING:
+   - The performance, accuracy, or reliability of the Software
+   - The results that may be obtained from the use of the Software
+   - The correction of any defects or errors in the Software
+   - The uninterrupted or error-free operation of the Software
+   - The compatibility of the Software with any hardware or software
+   - The security of the Software or protection against viruses or malware
+
+7. USER RESPONSIBILITY
+   You acknowledge and agree that:
+   - You use the Software at your own risk
+   - You are solely responsible for any damage to your computer system,
+     network, or data resulting from the use of the Software
+   - You should backup your system before using the Software
+   - You are responsible for ensuring compliance with all applicable laws
+   - You understand that network modifications may affect system performance
+
+8. DATA AND PRIVACY
+   The Software may access and modify system settings. GORQ AI PLATFORMS:
+   - Does not collect, transmit, or store any personal data
+   - Does not track user activity
+   - Does not communicate with external servers (except standard Windows
+     network operations)
+   - Is not responsible for any data loss or corruption
+
+9. TERMINATION
+   This license is effective until terminated. Your rights under this license
+   will terminate automatically without notice if you fail to comply with any
+   of its terms. Upon termination, you must cease all use of the Software and
+   destroy all copies.
+
+10. GOVERNING LAW
+    This license shall be governed by and construed in accordance with the
+    laws of the jurisdiction in which GORQ AI PLATFORMS operates, without
+    regard to its conflict of law provisions.
+
+11. ENTIRE AGREEMENT
+    This license constitutes the entire agreement between you and GORQ AI
+    PLATFORMS regarding the use of the Software and supersedes all prior
+    or contemporaneous understandings, agreements, representations, and
+    warranties.
+
+12. SEVERABILITY
+    If any provision of this license is held to be invalid or unenforceable,
+    the remaining provisions shall remain in full force and effect.
+
+================================================================================
+                            DISCLAIMER
+================================================================================
+
+BY USING THIS SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ THIS LICENSE
+AGREEMENT, UNDERSTAND IT, AND AGREE TO BE BOUND BY ITS TERMS AND CONDITIONS.
+
+YOU EXPRESSLY AGREE THAT THE USE OF THE SOFTWARE IS AT YOUR SOLE RISK.
+
+GORQ AI PLATFORMS SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES, INCLUDING BUT NOT LIMITED TO,
+DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA, OR OTHER INTANGIBLE LOSSES
+RESULTING FROM THE USE OR INABILITY TO USE THE SOFTWARE.
+
+================================================================================
+
+For questions regarding this license, contact:
+support@gorqai.com
+
+GORQ AI PLATFORMS
+www.gorqai.digital
+
+================================================================================
