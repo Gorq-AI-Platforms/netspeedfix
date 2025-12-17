@@ -6,7 +6,7 @@
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)
 ![License](https://img.shields.io/badge/license-Free-green.svg)
 
-**Network Optimization Tool - 1980s Retro Edition**
+**Network Optimization Tool - FIRST Edition**
 
 [![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/Gorq-AI-Platforms/netspeedfix/releases/latest)
 [![Website](https://img.shields.io/badge/Website-Live-orange)](https://netspeedfix.gorqai.org)
