@@ -1,3 +1,7 @@
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Gorq-AI-Platforms/netspeedfix/main/assets/logo.png" alt="GORQ NetSpeed_FIX Logo" width="200" height="200">
+
 # GORQ NetSpeed_FIX
 
 <div align="center">
