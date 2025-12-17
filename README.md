@@ -12,8 +12,11 @@
 
 **Network Optimization Tool - FIRST Edition**
 
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/Gorq-AI-Platforms/netspeedfix/releases/latest)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/Gorq-AI-Platforms/netspeedfix)
+[![Download EXE](https://img.shields.io/badge/Download-EXE%20Installer-brightgreen)](https://github.com/Gorq-AI-Platforms/netspeedfix/releases/download/v1.0.0/GORQ_NETSPEED_FIX_Setup.exe)
+[![Download MSI](https://img.shields.io/badge/Download-MSI%20Installer-blue)](https://github.com/Gorq-AI-Platforms/netspeedfix/releases/download/v1.0.0/GORQ_NETSPEED_FIX_Setup.msi)
 [![Website](https://img.shields.io/badge/Website-Live-orange)](https://netspeedfix.gorqai.org)
+[![GORQ AI](https://img.shields.io/badge/GORQ%20AI-Platforms-purple)](http://www.gorqai.digital)
 
 </div>
 
