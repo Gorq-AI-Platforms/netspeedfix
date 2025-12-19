@@ -243,6 +243,22 @@ Free to use and distribute. See [LICENSE.txt](../LICENSE.txt) for details.
 
 ---
 
+## 👥 Development Team
+
+**GORQ NetSpeed_FIX** is developed by the core team at **GORQ AI PLATFORMS**:
+
+### Dr. Harsh Vardhan Chopra
+- **Role**: CEO, Founder & Chairperson of GORQ
+- **GitHub**: [@hvcrealm](https://github.com/hvcrealm) *(GitHub username added)*
+- **Responsibilities**: Project leadership, strategic direction, and core development
+
+### Mr. Mehtab Hassan
+- **Role**: CTO, Advisor Director & Co-founder of GORQ
+- **GitHub**: [@mahtab2003](https://github.com/mahtab2003) *(GitHub username added)*
+- **Responsibilities**: Technical architecture, development, and advisory
+
+---
+
 ## 🙏 Credits
 
 Developed by **GORQ AI PLATFORMS**
